@@ -1,0 +1,9 @@
+Source: https://checkout.spotifycdn.com/hosted-checkout/_next/static/css/f1fc0839de63fcdd.css (nested CSS, minified)
+.AIDetection_aiDetection__Tlm9T{>.AIDetection_zeroOpacity__ZOI54{opacity:0;font-size:1px;color:transparent}>.AIDetection_clippedInvisible__KvY_Y,>.AIDetection_hiddenText__M_uTw{clip:rect(0,0,0,0);position:absolute}>.AIDetection_hiddenText__M_uTw{width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;white-space:nowrap;border:0}>button{position:absolute;opacity:0;width:2px;height:2px}}
+Pretty:
+.AIDetection_aiDetection__Tlm9T {
+  > .AIDetection_zeroOpacity__ZOI54 { opacity:0; font-size:1px; color:transparent }
+  > .AIDetection_clippedInvisible__KvY_Y, > .AIDetection_hiddenText__M_uTw { clip:rect(0,0,0,0); position:absolute }
+  > .AIDetection_hiddenText__M_uTw { width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; white-space:nowrap; border:0 }
+  > button { position:absolute; opacity:0; width:2px; height:2px }   /* applies to #ai-verification-button; no standalone #ai-verification-button rule */
+}

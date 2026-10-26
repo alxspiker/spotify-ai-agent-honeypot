@@ -1,0 +1,15 @@
+# Bundle sources (fetched Oct 25, 2026, as served)
+- chunks_0b618bd8-ae8ebb74ae6ce8ef.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/0b618bd8-ae8ebb74ae6ce8ef.js
+- chunks_103-8089fdb1aec37a00.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/103-8089fdb1aec37a00.js
+- chunks_371-136daf0685409a45.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/371-136daf0685409a45.js
+- chunks_540-a79cbe03ab5997c8.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/540-a79cbe03ab5997c8.js
+- chunks_793-84d9e6b0832d0534.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/793-84d9e6b0832d0534.js
+- chunks_852-804b4b7b66823274.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/852-804b4b7b66823274.js
+- chunks_9fb731a4-5282af3f1d58577e.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/9fb731a4-5282af3f1d58577e.js
+- chunks_main-5458622a779f5669.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/main-5458622a779f5669.js
+- chunks_pages_%5BcheckoutSessionId%5D-8ba499546708898a.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/pages/%5BcheckoutSessionId%5D-8ba499546708898a.js
+- chunks_pages__app-a614d5833665c1cd.js: https://checkout.spotifycdn.com/hosted-checkout/_next/static/chunks/pages/_app-a614d5833665c1cd.js
+- css_040a8366cc012455.css: https://checkout.spotifycdn.com/hosted-checkout/_next/static/css/040a8366cc012455.css
+- css_7031045838721900.css: https://checkout.spotifycdn.com/hosted-checkout/_next/static/css/7031045838721900.css
+- css_f1fc0839de63fcdd.css: https://checkout.spotifycdn.com/hosted-checkout/_next/static/css/f1fc0839de63fcdd.css
+- pp_page.js: prettier-formatted copy of chunks_pages_%5BcheckoutSessionId%5D-8ba499546708898a.js (line refs in evidence/js-snippets.txt point here)
