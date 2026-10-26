@@ -62,3 +62,8 @@ The checkout session id is redacted as `<checkout-session-id>`.
 ## Note
 
 All code is Spotify's. It was captured from Spotify's public CDN for research and commentary. The files are as served on Oct 25, 2026.
+
+## Saved copy of the rendered page
+
+- `evidence/rendered-checkout.html`: the full live DOM of the signed-in checkout page as rendered in Chrome on Oct 25, 2026 (serialized after scripts ran). It contains the `AIDetection` block and `#ai-verification-button`. The account display name, avatar URL, and checkout session id are replaced with `<user>`, `<redacted-avatar-url>`, and `<checkout-session-id>`; nothing else was changed.
+- `evidence/checkout.pdf`: a PDF print of the same page (avatar blacked out).
